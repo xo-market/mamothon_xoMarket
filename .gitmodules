@@ -4,3 +4,6 @@
 [submodule "hack-smartcontracts"]
 	path = hack-smartcontracts
 	url = https://github.com/xo-market/hack-smartcontracts.git
+[submodule "data-service"]
+	path = data-service
+	url = https://github.com/xo-market/data-service.git
