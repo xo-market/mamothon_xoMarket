@@ -109,6 +109,6 @@ Special thanks to the XO Market team and hackathon contributors, Celestia team, 
 ---
 
 ### 🔗 Links
-- 🌐 [XO Market Website]([#](https://xo-frontend-staging.web.app/)) 
+- 🌐 [XO Market Website](https://xo-frontend-staging.web.app/)
 - 🚀 [Frontend Demo](#) *(to be added later)*
 
