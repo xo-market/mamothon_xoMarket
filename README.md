@@ -96,6 +96,30 @@ mamothon_xoMarket/
 Each subdirectory contains its own dependencies and project-specific files.
 
 ---
+# XO Market - Public UI Guide
+
+Welcome to the XO Market! Follow these steps to connect to our appchain and start using our platform.
+
+## 🚀 How to Use Our Public UI
+
+### 1️⃣ Add the XO Testnet to MetaMask
+- Visit our appchain network details:  
+  [🔗 XO Testnet on Gelato](https://raas.gelato.network/rollups/details/public/xo-testnet)  
+- Click **"Add to MetaMask"** to connect.
+
+### 2️⃣ Access the XO Market UI
+- Go to our frontend:  
+  [🌐 XO Market Website](https://xo-frontend-staging.web.app/)
+
+### 3️⃣ Get Testnet Tokens (Drip Faucet)
+- Login using your wallet.
+- Click on your profile picture in the top-right corner.
+- Select **"Drip Faucet"** from the dropdown menu.
+- Follow the instructions to receive testnet tokens.
+
+### 4️⃣ Enjoy Using XO Market!
+- Explore our app, create markets, trade, and interact with the XO ecosystem.
+
 
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
