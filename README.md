@@ -104,12 +104,11 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 🤝 Acknowledgments
-Special thanks to the XO Market team and hackathon contributors for their efforts in making this project a success!
+Special thanks to the XO Market team and hackathon contributors, Celestia team, Encode team for their efforts in making this Hackathon a success!
 
 ---
 
 ### 🔗 Links
-- 🌐 [XO Market Website](#) *(update this link if applicable)*
-- 📜 [Smart Contracts Docs](#) *(update if applicable)*
-- 🚀 [Frontend Demo](#) *(update if applicable)*
+- 🌐 [XO Market Website]([#](https://xo-frontend-staging.web.app/)) 
+- 🚀 [Frontend Demo](#) *(to be added later)*
 
