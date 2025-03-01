@@ -1,0 +1,6 @@
+[submodule "hack-frontend"]
+	path = hack-frontend
+	url = https://github.com/xo-market/hack-frontend.git
+[submodule "hack-smartcontracts"]
+	path = hack-smartcontracts
+	url = https://github.com/xo-market/hack-smartcontracts.git
