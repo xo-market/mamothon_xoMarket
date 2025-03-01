@@ -1,0 +1,20 @@
+{
+  "name": "xo-evm-contracts",
+  "version": "1.0.0",
+  "description": "XO Prediction Market",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "forge test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "@openzeppelin/contracts-upgradeable": "^5.1.0",
+    "@prb/math": "^4.1.0",
+    "abdk-libraries-solidity": "^3.2.0"
+  }
+}
